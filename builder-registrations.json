@@ -2,5 +2,9 @@
     {
         "name": "flashbots",
         "rpc": "rpc.flashbots.net"
+    },
+    {
+        "name": "Titan",
+        "rpc": "rpc.titanbuilder.xyz"
     }
 ]
