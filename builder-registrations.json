@@ -1,6 +1,7 @@
 [
     {
         "name": "flashbots",
-        "rpc": "rpc.flashbots.net"
+        "rpc": "rpc.flashbots.net",
+        "supported-apis": ["v0.1"]
     }
 ]
