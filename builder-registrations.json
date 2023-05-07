@@ -3,10 +3,10 @@
         "name": "flashbots",
         "rpc": "rpc.flashbots.net",
         "supported-apis": ["v0.1"]
-        "rpc": "rpc.flashbots.net"
     },
     {
         "name": "Titan",
-        "rpc": "rpc.titanbuilder.xyz"
+        "rpc": "rpc.titanbuilder.xyz",
+        "supported-apis": ["v0.1"]
     }
 ]
