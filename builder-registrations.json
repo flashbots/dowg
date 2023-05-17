@@ -3,5 +3,10 @@
         "name": "flashbots",
         "rpc": "rpc.flashbots.net",
         "supported-apis": ["v0.1"]
+    },
+    {
+        "name": "rsync",
+        "rpc": "rsync-builder.xyz",
+        "supported-apis": ["refund-recipient"]
     }
 ]
