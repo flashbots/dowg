@@ -10,6 +10,11 @@
         "supported-apis": ["refund-recipient"]
     },
     {
+        "name": "beaverbuild.org",
+        "rpc": "rpc.beaverbuild.org",
+        "supported-apis": ["refund-recipient"]
+    },
+    {
         "name": "Titan",
         "rpc": "rpc.titanbuilder.xyz",
         "supported-apis": ["v0.1"]
