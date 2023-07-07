@@ -8,5 +8,10 @@
         "name": "rsync",
         "rpc": "rsync-builder.xyz",
         "supported-apis": ["refund-recipient"]
+    },
+    {
+        "name": "Titan",
+        "rpc": "rpc.titanbuilder.xyz",
+        "supported-apis": ["v0.1"]
     }
 ]
