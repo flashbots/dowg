@@ -15,6 +15,11 @@
         "supported-apis": ["refund-recipient"]
     },
     {
+        "name": "builder0x69",
+        "rpc": "builder0x69.io",
+        "supported-apis": ["refund-recipient"]
+    },
+    {
         "name": "Titan",
         "rpc": "rpc.titanbuilder.xyz",
         "supported-apis": ["v0.1"]
