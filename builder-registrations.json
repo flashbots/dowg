@@ -23,5 +23,10 @@
         "name": "Titan",
         "rpc": "rpc.titanbuilder.xyz",
         "supported-apis": ["v0.1"]
+    },
+    {
+        "name": "EigenPhi",
+        "rpc": "builder.eigenphi.io",
+        "supported-apis": ["v0.1"]
     }
 ]
