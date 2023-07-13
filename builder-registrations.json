@@ -23,5 +23,10 @@
         "name": "Titan",
         "rpc": "rpc.titanbuilder.xyz",
         "supported-apis": ["v0.1"]
+    },
+    {
+        "name": "boba-builder",
+        "rpc": "boba-builder.com/searcher/bundle",
+        "supported-apis": ["refund-recipient"]
     }
 ]
