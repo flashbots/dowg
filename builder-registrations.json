@@ -27,6 +27,6 @@
     {
         "name": "boba-builder",
         "rpc": "https://boba-builder.com/searcher/bundle",
-        "supported-apis": ["v0.1"]
+        "supported-apis": ["refund-recipient"]
     }
 ]
