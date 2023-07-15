@@ -25,6 +25,11 @@
         "supported-apis": ["v0.1"]
     },
     {
+        "name": "EigenPhi",
+        "rpc": "builder.eigenphi.io",
+        "supported-apis": ["v0.1"]
+    },
+    {
         "name": "boba-builder",
         "rpc": "boba-builder.com/searcher/bundle",
         "supported-apis": ["refund-recipient"]
