@@ -5,6 +5,11 @@
         "supported-apis": ["v0.1"]
     },
     {
+        "name": "f1b.io",
+        "rpc": "https://rpc.f1b.io",
+        "supported-apis": ["refund-recipient"]
+    },
+    {
         "name": "rsync",
         "rpc": "rsync-builder.xyz",
         "supported-apis": ["refund-recipient"]
