@@ -38,5 +38,10 @@
         "name": "boba-builder",
         "rpc": "boba-builder.com/searcher/bundle",
         "supported-apis": ["refund-recipient"]
+    },
+    {
+        "name": "payload",
+        "rpc": "rpc.payload.de",
+        "supported-apis": ["refund-recipient"]
     }
 ]
