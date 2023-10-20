@@ -41,7 +41,7 @@
     },
     {
         "name": "Gambit Labs",
-        "rpc": "builder.gmbit.co/rpc",
+        "rpc": "https://builder.gmbit.co/rpc",
         "supported-apis": ["refund-recipient"]
     },
     {
