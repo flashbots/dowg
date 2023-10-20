@@ -40,6 +40,11 @@
         "supported-apis": ["refund-recipient"]
     },
     {
+        "name": "Gambit Labs",
+        "rpc": "https://builder.gmbit.co/rpc",
+        "supported-apis": ["refund-recipient"]
+    },
+    {
         "name": "payload",
         "rpc": "rpc.payload.de",
         "supported-apis": ["refund-recipient"]
