@@ -38,5 +38,10 @@
         "name": "boba-builder",
         "rpc": "boba-builder.com/searcher/bundle",
         "supported-apis": ["refund-recipient"]
+    },
+    {
+        "name": "Gambit Labs",
+        "rpc": "https://builder.gmbit.co/rpc",
+        "supported-apis": ["refund-recipient"]
     }
 ]
