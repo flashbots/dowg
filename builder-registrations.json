@@ -48,5 +48,10 @@
         "name": "payload",
         "rpc": "rpc.payload.de",
         "supported-apis": ["refund-recipient"]
+    },
+    {
+        "name": "Loki",
+        "rpc": "rpc.lokibuilder.xyz",
+        "supported-apis": ["refund-recipient"]
     }
 ]
