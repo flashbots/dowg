@@ -53,5 +53,10 @@
         "name": "Loki",
         "rpc": "rpc.lokibuilder.xyz",
         "supported-apis": ["refund-recipient"]
+    },
+    {
+        "name": "BuildAI",
+        "rpc": "https://buildai.net",
+        "supported-apis": ["refund-recipient"]
     }
 ]
