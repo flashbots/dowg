@@ -53,5 +53,10 @@
         "name": "Loki",
         "rpc": "rpc.lokibuilder.xyz",
         "supported-apis": ["refund-recipient"]
+    },
+    {
+        "name": "JetBuilder",
+        "rpc": "rpc.jetbldr.xyz",
+        "supported-apis": ["refund-recipient"]
     }
 ]
