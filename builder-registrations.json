@@ -63,5 +63,10 @@
         "name": "JetBuilder",
         "rpc": "rpc.mevshare.jetbldr.xyz",
         "supported-apis": ["refund-recipient"]
+    },
+    {
+        "name": "tbuilder",
+        "rpc": "rpc.tbuilder.xyz",
+        "supported-apis": ["refund-recipient"]
     }
 ]
