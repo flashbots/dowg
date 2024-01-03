@@ -68,5 +68,10 @@
         "name": "tbuilder",
         "rpc": "rpc.tbuilder.xyz",
         "supported-apis": ["refund-recipient"]
+    },
+    {
+        "name": "penguinbuild",
+        "rpc": "rpc.penguinbuild.org",
+        "supported-apis": ["refund-recipient"]
     }
 ]
