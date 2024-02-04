@@ -73,5 +73,10 @@
         "name": "penguinbuild",
         "rpc": "rpc.penguinbuild.org",
         "supported-apis": ["refund-recipient"]
+    },
+    {
+        "name": "bobthebuilder",
+        "rpc": "rpc.bobthebuilder.xyz",
+        "supported-apis": ["v0.1"]
     }
 ]
