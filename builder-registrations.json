@@ -82,6 +82,6 @@
     {
         "name": "BTCS",
         "rpc": "rpc.btcs.com",
-        "supported-apis": ["v0.1"]
+        "supported-apis": ["refund-recipient"]
     }
 ]
