@@ -78,5 +78,10 @@
         "name": "bobthebuilder",
         "rpc": "rpc.bobthebuilder.xyz",
         "supported-apis": ["v0.1"]
+    },
+    {
+        "name": "BTCS",
+        "rpc": "rpc.btcs.com",
+        "supported-apis": ["refund-recipient"]
     }
 ]
