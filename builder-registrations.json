@@ -81,7 +81,7 @@
     },
     {
         "name": "BTCS",
-        "rpc": "rpc.btcs.com",
+        "rpc": "flashbots.btcs.com",
         "supported-apis": ["refund-recipient"]
     }
 ]
