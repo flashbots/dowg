@@ -83,5 +83,10 @@
         "name": "BTCS",
         "rpc": "rpc.btcs.com",
         "supported-apis": ["refund-recipient"]
+    },
+    {
+        "name": "bloXroute",
+        "rpc": "rpc-builder.blxrbdn.com",
+        "supported-apis": ["v0.1"]
     }
 ]
