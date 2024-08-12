@@ -16,7 +16,7 @@
     },
     {
         "name": "beaverbuild.org",
-        "rpc": "rpc.beaverbuild.org",
+        "rpc": "mevshare-rpc.beaverbuild.org",
         "supported-apis": ["refund-recipient"]
     },
     {
