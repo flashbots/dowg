@@ -12,12 +12,12 @@
     {
         "name": "rsync",
         "rpc": "rsync-builder.xyz",
-        "supported-apis": ["refund-recipient"]
+        "supported-apis": ["refund-recipient", "cancellation-endpoint"]
     },
     {
         "name": "beaverbuild.org",
         "rpc": "mevshare-rpc.beaverbuild.org",
-        "supported-apis": ["refund-recipient"]
+        "supported-apis": ["refund-recipient", "cancellation-empty-bundle"]
     },
     {
         "name": "builder0x69",
@@ -27,7 +27,7 @@
     {
         "name": "Titan",
         "rpc": "rpc.titanbuilder.xyz",
-        "supported-apis": ["refund-recipient"]
+        "supported-apis": ["refund-recipient", "cancellation-endpoint"]
     },
     {
         "name": "EigenPhi",
@@ -62,7 +62,7 @@
     {
         "name": "JetBuilder",
         "rpc": "rpc.mevshare.jetbldr.xyz",
-        "supported-apis": ["refund-recipient"]
+        "supported-apis": ["refund-recipient", "cancellation-endpoint"]
     },
     {
         "name": "tbuilder",
@@ -82,7 +82,7 @@
     {
         "name": "BTCS",
         "rpc": "rpc.btcs.com",
-        "supported-apis": ["refund-recipient"]
+        "supported-apis": ["refund-recipient", "cancellation-endpoint"]
     },
     {
         "name": "bloXroute",
