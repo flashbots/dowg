@@ -92,6 +92,6 @@
     {
         "name": "Blockbeelder",
         "rpc": "https://blockbeelder.com/rpc",
-        "supported-apis": ["refund-recipient"]
+        "supported-apis": ["refund-recipient", "cancel-empty-bundle"]
     }
 ]
