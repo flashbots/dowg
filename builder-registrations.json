@@ -88,5 +88,10 @@
         "name": "bloXroute",
         "rpc": "rpc-builder.blxrbdn.com",
         "supported-apis": ["v0.1"]
+    },
+    {
+        "name": "Blockbeelder",
+        "rpc": "https://blockbeelder.com/rpc",
+        "supported-apis": ["refund-recipient", "cancel-empty-bundle"]
     }
 ]
