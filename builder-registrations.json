@@ -81,8 +81,8 @@
     },
     {
         "name": "BTCS",
-        "rpc": "rpc.btcs.com",
-        "supported-apis": ["refund-recipient", "cancel-endpoint"]
+        "rpc": "flashbots.btcs.com",
+        "supported-apis": ["v0.1"]
     },
     {
         "name": "bloXroute",
