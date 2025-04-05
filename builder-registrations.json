@@ -93,5 +93,10 @@
         "name": "Blockbeelder",
         "rpc": "https://blockbeelder.com/rpc",
         "supported-apis": ["refund-recipient", "cancel-empty-bundle"]
+    },
+    {
+        "name": "Quasar",
+        "rpc": "rpc.quasar.win",
+        "supported-apis": ["v0.1", "refund-recipient"]
     }
 ]
