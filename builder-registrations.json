@@ -97,6 +97,6 @@
     {
         "name": "Quasar",
         "rpc": "rpc.quasar.win",
-        "supported-apis": ["v0.1", "refund-recipient"]
+        "supported-apis": ["refund-recipient", "cancel-endpoint"]
     }
 ]
