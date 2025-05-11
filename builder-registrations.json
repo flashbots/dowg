@@ -102,6 +102,6 @@
     {
         "name": "Eureka",
         "rpc": "rpc.eurekabuilder.xyz",
-        "supported-apis": ["v0.1", "refund-recipient"]
+        "supported-apis": ["refund-recipient"]
     }
 ]
