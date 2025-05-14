@@ -98,5 +98,10 @@
         "name": "Quasar",
         "rpc": "rpc.quasar.win",
         "supported-apis": ["refund-recipient", "cancel-endpoint"]
+    },
+    {
+        "name": "Eureka",
+        "rpc": "rpc.eurekabuilder.xyz",
+        "supported-apis": ["refund-recipient"]
     }
 ]
