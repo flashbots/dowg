@@ -103,5 +103,10 @@
         "name": "Eureka",
         "rpc": "rpc.eurekabuilder.xyz",
         "supported-apis": ["refund-recipient"]
+    },
+    {
+        "name": "turbobuilder",
+        "rpc": "https://mevshare.turbobuilder.xyz",
+        "supported-apis": ["refund-recipient"]
     }
 ]
