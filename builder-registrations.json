@@ -103,5 +103,12 @@
         "name": "Eureka",
         "rpc": "rpc.eurekabuilder.xyz",
         "supported-apis": ["refund-recipient"]
+    },
+    {
+    "name": "Ultra Builder",
+    "rpc": "rpc.ultrabuilder.money",
+    "supported-apis": ["refund-recipient", "cancel-endpoint"]
     }
 ]
+
+
