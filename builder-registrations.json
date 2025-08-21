@@ -103,5 +103,10 @@
         "name": "Eureka",
         "rpc": "rpc.eurekabuilder.xyz",
         "supported-apis": ["refund-recipient"]
+    },
+    {
+        "name": "snailbuilder",
+        "rpc": "rpc.snailbuilder.sh",
+        "supported-apis": ["refund-recipient", "cancel-endpoint"]
     }
 ]
