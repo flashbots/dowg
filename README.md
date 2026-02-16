@@ -14,3 +14,17 @@ Builders can register to receive orderflow from MEV-share matchmakers by submitt
 In the PR description, Builders must attest that they agree to the Fair Market Principles outlined in `fair-market-principles.md`.
 
 Note that registering does not guarantee that a builder will receive orderflow from any or all matchmakers. Matchmakers or users may choose to limit the set of builders that they share orderflow with by default or in general. The purpose of this registry is to signal intent, compatibility, and agreement with the principles. Builders could be removed or flagged if the MEV-share community determines that they have failed to uphold these principles.
+
+## Receiving orderflow
+
+To receive multiplexed orderflow, a builder must:
+* Build ≥2% of canonical Ethereum blocks over the trailing 60 days
+* Provide a real-time communication channel for technical coordination
+* Commit to the [Flashbots Fair Market Principles](https://github.com/flashbots/dowg/blob/main/fair-market-principles.md)
+  
+Builders may be suspended if they:
+* Fall below 2% block share over the trailing 30 days; or
+* Violate the Fair Market Principles; or
+* Experience documented technical instability materially affecting inclusion reliability.
+  
+In rare cases where these thresholds would impact transaction inclusion for users, Flashbots may temporarily adjust the multiplexing criteria. Any adjustments will be documented and applied equally across all builders.
