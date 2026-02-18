@@ -6,7 +6,7 @@ This repository is in progress and will host the work of the Decentralized Order
 
 ## Builders
 
-### Eligibility for receiving orderflow
+### Criteria for receiving orderflow
 
 To be eligible to receive orderflow, a builder must:
 * Build ≥2% of canonical Ethereum blocks over the trailing 60 days
@@ -20,7 +20,7 @@ Builders may be suspended if they:
 
 In rare cases where these thresholds would impact transaction inclusion for users, Flashbots may temporarily adjust the multiplexing criteria. Any adjustments will be documented and applied equally across all builders.
 
-### Registration to receive orderflow
+### Registering to receive orderflow
 
 Builders can register to receive orderflow by submitting a PR to this repository. In the PR, they should add an entry to `registrations.json` with the following information:
 * Their name as they would like it displayed.
