@@ -103,5 +103,10 @@
         "name": "Eureka",
         "rpc": "rpc.eurekabuilder.xyz",
         "supported-apis": ["refund-recipient"]
+    },
+    {
+        "name": "Flowbuild",
+        "rpc": "rpc.flowbuild.xyz",
+        "supported-apis": ["refund-recipient", "cancel-endpoint"]
     }
 ]
