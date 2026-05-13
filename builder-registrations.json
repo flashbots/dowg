@@ -93,5 +93,10 @@
         "name": "Bombora",
         "rpc": "rpc.bombora.build",
         "supported-apis": ["refund-recipient", "cancel-endpoint"]
+    },
+    {
+        "name": "Seneschal",
+        "rpc": "https://rpc.seneschal.space",
+        "supported-apis": ["v0.1", "refund-recipient", "cancel-endpoint"]
     }
 ]
