@@ -93,5 +93,10 @@
         "name": "Bombora",
         "rpc": "rpc.bombora.build",
         "supported-apis": ["refund-recipient", "cancel-endpoint"]
+    },
+    {
+        "name": "Bear",
+        "rpc": "https://rpc.bearmev.com",
+        "supported-apis": ["refund-recipient", "cancel-endpoint"]
     }
 ]
