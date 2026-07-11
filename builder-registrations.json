@@ -90,6 +90,11 @@
         "supported-apis": ["refund-recipient", "cancel-endpoint"]
     },
     {
+        "name": "EZChain",
+        "rpc": "rpc.ezchain.xyz",
+        "supported-apis": ["v0.1"]
+    }
+    {
         "name": "Bombora",
         "rpc": "rpc.bombora.build",
         "supported-apis": ["refund-recipient", "cancel-endpoint"]
