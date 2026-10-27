@@ -93,5 +93,10 @@
         "name": "Bombora",
         "rpc": "rpc.bombora.build",
         "supported-apis": ["refund-recipient", "cancel-endpoint"]
+    },
+    {
+        "name": "Aqua Builder",
+        "rpc": "https://rpc.aquabuilder.online",
+        "supported-apis": ["refund-recipient", "cancel-endpoint"]
     }
 ]
